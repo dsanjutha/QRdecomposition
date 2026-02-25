@@ -58,9 +58,10 @@ print("The R Matrix is \n",R)
 ## Output
 ```
 
-![maths ex 8 screenshot](https://github.com/user-attachments/assets/f0a47bf2-7e5d-4a51-bba9-7a818d33bccb)
 
 
+
+<img width="724" height="785" alt="Screenshot 2026-02-25 170731" src="https://github.com/user-attachments/assets/0dce0dfe-c417-47c2-b54b-33aadc7fb73f" />
 
 ```
 
